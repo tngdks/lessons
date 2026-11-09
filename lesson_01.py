@@ -1,0 +1,5 @@
+print("Project Bit-Beast")
+print("Entity: BB-000")
+print("Status: Initialsing")
+print("Enerhy: 100")
+print("Health: 100")
